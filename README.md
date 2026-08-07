@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Top%20Rated%20Plus-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+<a href="https://www.upwork.com/freelancers/~012d49acdde2a0564b" target="_blank"><img src="https://img.shields.io/badge/Top%20Rated%20Plus-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Job%20Success-100%25-2ea44f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Earned-%24100K%2B-0F9D58?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AWS%20Certified-Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -16,7 +16,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=kishan-kumar-codes&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" />
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kishan.excel2011@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -224,8 +224,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=kishan-kumar-codes&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kishan-kumar-codes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kishan-kumar-codes&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-kumar-codes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
@@ -241,7 +241,8 @@
 I partner with founders and engineering teams to ship production-ready AI systems — not demos.
 If you're evaluating an AI/ML hire or need a technical partner for a GenAI initiative, let's talk.
 
-<a href="mailto:kishan.excel2011@gmail.com"><img src="https://img.shields.io/badge/kishan.excel2011@gmail.com-0F2027?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kishan.excel2011@gmail.com"><img src="https://img.shields.io/badge/Email-kishan.excel2011%40gmail.com-0F2027?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~012d49acdde2a0564b" target="_blank"><img src="https://img.shields.io/badge/Hire%20Me-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-2ea44f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Contracts-Long--term%20%7C%20Project--based-0F9D58?style=for-the-badge" />
 
