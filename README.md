@@ -241,7 +241,7 @@
 I partner with founders and engineering teams to ship production-ready AI systems — not demos.
 If you're evaluating an AI/ML hire or need a technical partner for a GenAI initiative, let's talk.
 
-<a href="mailto:kishan.excel2011@gmail.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-0F2027?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kishan.excel2011@gmail.com"><img src="https://img.shields.io/badge/kishan.excel2011@gmail.com-0F2027?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-2ea44f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Contracts-Long--term%20%7C%20Project--based-0F9D58?style=for-the-badge" />
 
