@@ -224,8 +224,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kishan-kumar-codes&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-kumar-codes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=kishan-kumar-codes&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kishan-kumar-codes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 
 <br/>
 
